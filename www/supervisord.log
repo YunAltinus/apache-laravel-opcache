@@ -186,3 +186,38 @@
 2024-07-17 20:25:02,148 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
 2024-07-17 20:25:02,148 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
 2024-07-17 20:25:02,149 INFO success: redis-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-17 20:34:44,388 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-07-17 20:34:44,434 INFO supervisord started with pid 1
+2024-07-17 20:34:45,440 INFO spawned: 'apache2' with pid 7
+2024-07-17 20:34:45,445 INFO spawned: 'horizon' with pid 8
+2024-07-17 20:34:45,447 INFO spawned: 'redis-server' with pid 10
+2024-07-17 20:34:46,531 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-17 20:34:46,532 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-17 20:34:46,532 INFO success: redis-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-17 20:42:38,865 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-07-17 20:42:38,871 INFO supervisord started with pid 1
+2024-07-17 20:42:39,874 INFO spawned: 'apache2' with pid 7
+2024-07-17 20:42:39,880 INFO spawned: 'horizon' with pid 8
+2024-07-17 20:42:39,882 INFO spawned: 'redis-server' with pid 10
+2024-07-17 20:42:40,963 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-17 20:42:40,963 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-17 20:42:40,963 INFO success: redis-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-17 20:45:32,534 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-07-17 20:45:32,540 INFO supervisord started with pid 1
+2024-07-17 20:45:33,543 INFO spawned: 'apache2' with pid 7
+2024-07-17 20:45:33,548 INFO spawned: 'horizon' with pid 8
+2024-07-17 20:45:33,550 INFO spawned: 'redis-server' with pid 10
+2024-07-17 20:45:34,635 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-17 20:45:34,635 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-17 20:45:34,636 INFO success: redis-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-17 20:45:39,342 WARN exited: horizon (exit status 1; not expected)
+2024-07-17 20:45:40,348 INFO spawned: 'horizon' with pid 23
+2024-07-17 20:45:41,350 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-17 20:46:26,017 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-07-17 20:46:26,023 INFO supervisord started with pid 1
+2024-07-17 20:46:27,027 INFO spawned: 'apache2' with pid 8
+2024-07-17 20:46:27,032 INFO spawned: 'horizon' with pid 9
+2024-07-17 20:46:27,037 INFO spawned: 'redis-server' with pid 12
+2024-07-17 20:46:28,091 INFO success: apache2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-17 20:46:28,091 INFO success: horizon entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-07-17 20:46:28,092 INFO success: redis-server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
